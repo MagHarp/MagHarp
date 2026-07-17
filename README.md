@@ -4,4 +4,4 @@ Basic Dataset. This experiment was conducted using the same smartphone paired wi
 
 Extension Dataset. This dataset includes data collected from 4 additional smartphones and 5 different wireless chargers.
 
-All datasets mentioned above will be officially published on the SciencedB platform (official website: https://www.scidb.cn/). At present, our dataset submission is undergoing platform review. Once the review process is completed and approved, we will immediately release and publicly share the accessible dataset link on SciencedB without delay.
+All datasets mentioned above have been published on the SciencedB platform (https://www.scidb.cn/detail?dataSetId=95f4f7b3a7854e918c18a7f31880e49b). 
